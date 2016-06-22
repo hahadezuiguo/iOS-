@@ -19,7 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"大家一起加油");
-    NSLog(@"怎么回事呢");                                                                                 
+    NSLog(@"怎么回事呢");
+    NSLog(@"都更新不了呀？");
 }
 
 - (void)didReceiveMemoryWarning {
